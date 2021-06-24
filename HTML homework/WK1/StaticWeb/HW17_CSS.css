@@ -1,0 +1,96 @@
+* {
+    margin: 0px; padding: 0px; box-sizing: border-box;
+}
+
+.header { 
+    background-color: lightskyblue;
+    padding: 10px;
+    border-bottom: 2px solid brown;
+}
+
+h2 {
+    display: inline-block;
+}
+
+ul {
+    float: right;
+}
+
+li {
+    display: inline-block;
+}
+
+.contact {
+    background-color: lightskyblue;
+}
+
+form {
+    
+    padding: 10px;
+    display: inline-block;
+}
+.h3contact {
+    padding: 10px;
+    display: inline-block;
+}
+form {
+    float: right; 
+}
+.main {
+    text-align: center;
+    padding: 100px;
+    background-color: lightgray;
+    
+}
+.about { 
+    padding: 100px;
+    background-color: lightgrey;  
+}
+
+
+.whatwedo {
+    background-color: deeppink;
+    width: 200px;
+    padding: 10px;
+    float: right;
+    color: white;
+    
+    
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: lightskyblue;
+}
+
+.service {
+    background-color: lightgray;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+}
+
+
+
+.quote {
+    width: 200px;
+    float: right;
+    color: white;
+    background-color: deeppink;
+    padding: 10px;
+    margin: 10px;
+    margin-right: 300px;
+    border-radius: 20px;
+    
+}
+.frontend, .backend,.devops {
+    background-color: lightblue;
+    color: black;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 300px;
+    display: block;
+    overflow: hidden;
+
+}
