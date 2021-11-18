@@ -38,8 +38,9 @@ form {
 }
 .main {
     text-align: center;
-    padding: 100px;
+    padding: 200px;
     background-color: lightgray;
+    height: 100%;
     
 }
 .about { 
